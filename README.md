@@ -4,7 +4,7 @@ This Verilog project implements a Serial Peripheral Interface (SPI) slave interf
 
 ## Overview
 
-The SPI slave interface is a widely-used communication protocol for connecting microcontrollers and peripheral devices. In this project, we implement an SPI slave interface in Verilog, along with a single-port RAM for data storage.
+The SPI slave interface is a widely used communication protocol for connecting microcontrollers and peripheral devices. In this project, we implement an SPI slave interface in Verilog, along with a single-port RAM for data storage.
 
 ## Features
 
