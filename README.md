@@ -30,5 +30,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries, please contact me at [mustafa.eddin02@eng-st.cu.edu.eg].
+For any inquiries, please get in touch with me at [mustafa.eddin02@eng-st.cu.edu.eg].
 
