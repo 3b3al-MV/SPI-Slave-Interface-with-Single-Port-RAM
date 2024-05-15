@@ -1,6 +1,6 @@
 # SPI Slave Interface with Single Port RAM
 
-This Verilog project implements a Serial Peripheral Interface (SPI) slave interface with a single-port RAM. It also includes a testbench for simulation and verification purposes.
+This Verilog project implements a Serial Peripheral Interface (SPI) slave interface with a single-port RAM. It also includes a test bench for simulation and verification purposes.
 
 ## Overview
 
